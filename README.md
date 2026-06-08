@@ -57,8 +57,7 @@ CodeA1pha_HangmanGame/
 ├── hangman.py
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-└── screenshots/
+
 ```
 
 ---
@@ -140,17 +139,3 @@ By completing this project, you will understand:
 
 ---
 
-## 👨‍💻 Author
-
-Developed by:
-
-**Your Name**
-
-GitHub:
-https://github.com/yourusername
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
